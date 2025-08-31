@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋  I’m Emezirinwanne Chisom Shanyera.
+I’m a Back-End Developer passionate about building scalable, secure, and efficient systems. Currently learning and growing through the ALX Back-End Development Program, I work with Python, Node.js, SQL, and Docker.
+
+💡 I’m inspired by technology’s power to solve problems and the constant opportunity to learn something new. My vision is to design systems that are functional, elegant, and future-ready, with a strong focus on cloud computing, automation, and APIs.
+
+🔧 Skills: Python • JavaScript • SQL • Django • Flask • Express.js • MySQL • PostgreSQL • MongoDB • Git • Docker • AWS
+
+🤝 Open to collaborating on open-source and real-world projects that drive innovation and growth.
 
 <!--
 **shanyera/Shanyera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
